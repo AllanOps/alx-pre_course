@@ -1,1 +1,1 @@
-Some more info
+This repository is just for learning about repositories and git and how they work, making and deleting directories, switching in between them and listing files in a directory. Nothing much to see there tho.
